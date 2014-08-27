@@ -1,9 +1,9 @@
 How To Quadcopter
 =================
 
-This guide is for people who want to build and program their own Quadcopter. I mean, who wouldn't?
+The main purpose of this guide is to impart knowledge I've gained building and programming a Quadcopter that if I could go back in time I would tell myself at the beginning. By reading this guide, you'll get an idea of what to avoid, how to go about, and the tasks involved in building and programming a Quadcopter.
 
-However, if you just want to buy one, or buy a flight controller, there are probably better guides elsewhere. But you should still read this ;).
+This guide is for people who want to build and program their own Quadcopter. I mean, who wouldn't? However, if you just want to buy one, or buy a flight controller, there are probably better guides elsewhere. But you should still read this ;).
 
 Table of Contents:
 
