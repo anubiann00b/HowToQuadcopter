@@ -74,4 +74,4 @@ It might seem easier to use crimp connectors for wiring. It's not. Just solder e
 
  * Don't fry your board.
 
-It's a lot easier than it sounds. Simply grounding pins can destroy your board. Read [10 Ways to Destroy an Arduino](http://www.ruggedcircuits.com/10-ways-to-destroy-an-arduino/).
+It's pretty easy to fry a board, if you're careless or short something. Simply grounding pins can destroy your board. Read [10 Ways to Destroy an Arduino](http://www.ruggedcircuits.com/10-ways-to-destroy-an-arduino/).
